@@ -1,13 +1,12 @@
 #TEST CODE FOR GITHUB EXERCISE
-#Edited by Katie Beth Nichols
+#Edited by ALex Nicoll
+
+#Milwaukee will win the NBA championship
 
 
 #Sentiment Analysis Tutorial: Jane Austen
 # March 31, 2019
-#Exercises from Text Mining with R A Tidy Approach 
-#By Julia Silge and David Robinson  2018-12-21
 
-#https://www.tidytextmining.com/ 
 
 library(dplyr)
 library(tidytext)
